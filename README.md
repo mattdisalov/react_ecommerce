@@ -1,12 +1,13 @@
-<b>Testing checkout: </b>
-									<br>
-									<i>Credit card:</i> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 4242 4242 4242 4242
-									<br>
-									<i>Expiration date:</i> &nbsp&nbsp&nbsp&nbsp 04/24
-									<br>
-									<i>CVC code:</i> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 242
-									<br>
-									<i>ZIP code</i>: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 42424
+Testing checkout: 
+
+Credit card: 4242 4242 4242 4242
+
+Expiration date: 04/24
+
+CVC code: 242
+
+ZIP code: 42424
+
 
 
 # Getting Started with Create React App
