@@ -8,6 +8,10 @@
 
 <b>ZIP code:</b> 42424
 
+A fully functional E-commerce application built with React and Commerce.js, using Stripe for card transactions and styled using Material-UI. The site features Product components with pictures, description, price and Add to Cart button. It also features a Cart icon that dynamically updates based on how many items are added to the cart. Once in the Shopping Cart, you can see added products as well as options to adjust quantity, remove that product, empty the entire cart or proceed to checkout, as well as a subtotal of all added items. When checking out, you will see the order summary after which you will be prompted to enter your shipping details as well as choose shipping options and enter your credit card info. Once the transaction has been completed successfully, you will get a thank you message as well as a confirmation email.
+
+
+
 
 
 # Getting Started with Create React App
