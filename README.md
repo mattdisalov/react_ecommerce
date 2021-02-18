@@ -1,3 +1,5 @@
+<b>DEMO:</b> https://shoestore-ecommerce.netlify.app/
+
 <b>Testing checkout:</b> 
 
 <b>Credit card:</b> 4242 4242 4242 4242
