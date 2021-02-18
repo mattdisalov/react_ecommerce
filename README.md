@@ -1,12 +1,12 @@
-Testing checkout: 
+<b>Testing checkout:</b> 
 
-Credit card: 4242 4242 4242 4242
+<b>Credit card:</b> 4242 4242 4242 4242
 
-Expiration date: 04/24
+<b>Expiration date:</b> 04/24
 
-CVC code: 242
+<b>CVC code:</b> 242
 
-ZIP code: 42424
+<b>ZIP code:</b> 42424
 
 
 
